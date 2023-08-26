@@ -276,7 +276,7 @@ http://c4n.fun:80/cicera/102030/209101
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVvU-CU5bfmDv8-0drRReyrCZai0ljMLH75A&usqp=CAU"goup-title="FILMES",UNIVERSAL STUDIO
 http://c4n.fun:80/cicera/102030/209125
 
-#EXTINF:-1tvg-logo=""goup-title=" VARIEDADES ",ARTE 1https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcwcHhLkkLuerUOxWRiU66jvghm17lIQId7A&usqp=CAU
+#EXTINF:-1tvg-logo=""goup-title=" VARIEDADES ",ARTE 1 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcwcHhLkkLuerUOxWRiU66jvghm17lIQId7A&usqp=CAU
 http://c4n.fun:80/cicera/102030/208858
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQm2DeOzfTRHm3c0ufZ6WsWX0ftwH_6qKhTQ&usqp=CAU"goup-title=" VARIEDADES ",CURTA
