@@ -90,8 +90,8 @@ http://c4n.fun:80/cicera/102030/208892
 #EXTINF:-1tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmGiHBZMddaRnKrdNV4ScsRTyf5eqhlMQnIJCYpaYiJDsFAF-d-GTdgxHpLuUY6m1ZG_Bw9WV0bedmLAffJEYeRwCVVUaRycIdRbKBqpvhh2cywwFR1uEy4CEIF3bs2HgZEePft99l9vzZSHcNuqWpV4XDUlYpmlvdV9qEKqRxtl2Jy_atwZur_LsR/s200/CHANNEL%201.jpg"goup-title="Filmes",Channel 1
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1806695934.m3u8 
 
-#EXTINF:-1tvg-logo=""goup-title="Filmes",Warner
-https://server101.shop/warner/tracks-v1a1/mono.m3u8?remote=187.87.225.8&token=73dd6fdceaae548ab17fde1482a9866d2439928e-c4deb59d126d4f6fe43deb6178d64fe4-1692922556-1692918956 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVVRXgMmvSqK6pCDGgE1utDNTIzw5lA7YGHg&usqp=CAU"goup-title="Filmes",Warner
+http://15110166167.com:80/287994003712/287994003712/21291 
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScS7JmYVXoXoazPQ-CjIcKxvRt5ClS85PC4A&usqp=CAU"goup-title="24 horas ",Chaves 24 HORAS
 http://riplay.live:80/salatiel250822/sala0822fire/1709071 
@@ -150,7 +150,7 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaBGgMxFUwocWH4EjTtmIVhsW1
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiLPTTxq0aOtCrhOy5RoAtgO6p9205DXC3qg&usqp=CAU"goup-title="DOCUMENTARIOS",ID-DISCOVERY INVESTIGAÇÕES 
 http://riplay.live:80/salatiel250822/sala0822fire/24356
 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmhJTd-SlRCSottgGHRU1WMu2JRknSvEiu2SNFaexhZU1wD3PEPrA-1Sc&s=10"goup-title="",
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmhJTd-SlRCSottgGHRU1WMu2JRknSvEiu2SNFaexhZU1wD3PEPrA-1Sc&s=10"goup-title="",H2 HD
 http://riplay.live:80/salatiel250822/sala0822fire/24295
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXFzVoHigA5aRtfFXXAjFcx_VKGJ4QhX-ykQ&usqp=CAU"goup-title="DOCUMENTARIOS",HGTV
@@ -171,8 +171,107 @@ http://c4n.fun:80/cicera/102030/208915
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu3RlbY00v42c1du5cq5p5GNx8r_hcFgzP4w&usqp=CAU"goup-title="ESPORTE",WWE
 http://c4n.fun:80/cicera/102030/1633359
 
-#EXTINF:-1tvg-logo=""goup-title="ESPORTE",APPLE TV 1
+#EXTINF:-1tvg-logo=""goup-title="PPV",APPLE TV 1
 http://c4n.fun:80/cicera/102030/1646319
 
-#EXTINF:-1tvg-logo=""goup-title="ESPORTE",APPLE TV 2
+#EXTINF:-1tvg-logo=""goup-title="PPV",APPLE TV 2
 http://c4n.fun:80/cicera/102030/1646320
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLsXpXoLxjVbb6jRYGPX-W8GkvrH4oKdpYVQ&usqp=CAU"goup-title="PPV",CAZÉ TV
+http://15110166167.com:80/287994003712/287994003712/254102
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevNxBp6oz1OomZEQJqEZyTh8wi5x6sd1lGQ&usqp=CAU"goup-title="PPV",STAR PLUS 1
+http://15110166167.com:80/287994003712/287994003712/233741
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREc-dN7dfICKAYNf-G_JqTZBOm2vaHpYa0qQ&usqp=CAU"goup-title="TELECINE",TELECINE ACTION
+http://c4n.fun:80/cicera/102030/209135
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREc-dN7dfICKAYNf-G_JqTZBOm2vaHpYa0qQ&usqp=CAU"goup-title="TELECINE",TELECINE CULT
+http://c4n.fun:80/cicera/102030/209137
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREc-dN7dfICKAYNf-G_JqTZBOm2vaHpYa0qQ&usqp=CAU"goup-title="TELECINE",TELECINE FUN
+http://c4n.fun:80/cicera/102030/209140
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREc-dN7dfICKAYNf-G_JqTZBOm2vaHpYa0qQ&usqp=CAU"goup-title="TELECINE",TELECINE PIPOCA 
+http://c4n.fun:80/cicera/102030/132258
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREc-dN7dfICKAYNf-G_JqTZBOm2vaHpYa0qQ&usqp=CAU"goup-title="TELECINE",TELECINE PREMIUM
+http://c4n.fun:80/cicera/102030/209146
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREc-dN7dfICKAYNf-G_JqTZBOm2vaHpYa0qQ&usqp=CAU"goup-title="TELECINE",TELECINE TOUCH
+http://c4n.fun:80/cicera/102030/209149
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhClnI9v0nSexw6KjbV-y7K9J338qx6PlvlA&usqp=CAU"goup-title="HBO",HBO PLUS
+http://c4n.fun:80/cicera/102030/1621987
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhClnI9v0nSexw6KjbV-y7K9J338qx6PlvlA&usqp=CAU"goup-title="HBO",HBO 1
+http://c4n.fun:80/cicera/102030/1621999
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhClnI9v0nSexw6KjbV-y7K9J338qx6PlvlA&usqp=CAU"goup-title="HBO",HBO 2
+http://c4n.fun:80/cicera/102030/1622002
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhClnI9v0nSexw6KjbV-y7K9J338qx6PlvlA&usqp=CAU"goup-title="HBO",HBO FAMILY
+http://c4n.fun:80/cicera/102030/1621981
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhClnI9v0nSexw6KjbV-y7K9J338qx6PlvlA&usqp=CAU"goup-title="HBO",HBO MUNDI
+http://c4n.fun:80/cicera/102030/1621984
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhClnI9v0nSexw6KjbV-y7K9J338qx6PlvlA&usqp=CAU"goup-title="HBO",HBO POP
+http://c4n.fun:80/cicera/102030/1621990
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhClnI9v0nSexw6KjbV-y7K9J338qx6PlvlA&usqp=CAU"goup-title="HBO",SIGNATURE
+http://c4n.fun:80/cicera/102030/1621993
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhClnI9v0nSexw6KjbV-y7K9J338qx6PlvlA&usqp=CAU"goup-title="HBO",HBO XTREME
+http://c4n.fun:80/cicera/102030/209005
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSesMWmF8GO99B0IwB9TvD5LIAuACHAxDyFRA&usqp=CAU"goup-title="FILMES",CINE CANAL
+http://c4n.fun:80/cicera/102030/396729
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVPtGJeSo4d1dwid3kGbCnfhCdYQk0Bkspfg&usqp=CAU"goup-title="FILMES",TNT HD
+http://c4n.fun:80/cicera/102030/1622141
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevNxBp6oz1OomZEQJqEZyTh8wi5x6sd1lGQ&usqp=CAU"goup-title="PPV",STAR PLUS 2
+http://riplay.live:80/salatiel250822/sala0822fire/1075381
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevNxBp6oz1OomZEQJqEZyTh8wi5x6sd1lGQ&usqp=CAU"goup-title="PPV",STAR PLUS 3
+http://riplay.live:80/salatiel250822/sala0822fire/1075382
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevNxBp6oz1OomZEQJqEZyTh8wi5x6sd1lGQ&usqp=CAU"goup-title="PPV",STAR PLUS 4
+http://riplay.live:80/salatiel250822/sala0822fire/1075383
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevNxBp6oz1OomZEQJqEZyTh8wi5x6sd1lGQ&usqp=CAU"goup-title="PPV",STAR PLUS 5
+http://riplay.live:80/salatiel250822/sala0822fire/1075384
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevNxBp6oz1OomZEQJqEZyTh8wi5x6sd1lGQ&usqp=CAU"goup-title="PPV",STAR PLUS 6
+http://riplay.live:80/salatiel250822/sala0822fire/1075385
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevNxBp6oz1OomZEQJqEZyTh8wi5x6sd1lGQ&usqp=CAU"goup-title="PPV",STAR PLUS 7
+http://riplay.live:80/salatiel250822/sala0822fire/1075386
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevNxBp6oz1OomZEQJqEZyTh8wi5x6sd1lGQ&usqp=CAU"goup-title="PPV",STAR PLUS 8
+http://riplay.live:80/salatiel250822/sala0822fire/1075387
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevNxBp6oz1OomZEQJqEZyTh8wi5x6sd1lGQ&usqp=CAU"goup-title="PPV",UFC FIGHT PASS
+http://c4n.fun:80/cicera/102030/1629287
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSixWPpnraEtCH6cxgybm75kucMZ_aN3HYmfw&usqp=CAU"goup-title="FILMES",AMC
+http://c4n.fun:80/cicera/102030/208852
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgwjl19JI-dThBu6YEiL3HKpQ_F94oYu9Ezg&usqp=CAU"goup-title="FILMES",FOX
+http://c4n.fun:80/cicera/102030/208966
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSuoSvTTZhlOAEaIbA4obp93eZL9SSLI5MZA&usqp=CAU"goup-title="Filmes",MEGAPIX
+http://c4n.fun:80/cicera/102030/209030
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9H4CAt-6TJkz7gxTGzZTjQR6j1dWi3t43Lg&usqp=CAU"goup-title="Filmes",PARAMOUNT CHANNEL 
+http://c4n.fun:80/cicera/102030/209062
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdFmr4AU0B2pcm5mcgHL0rEN3FqoKAPNsj9g&usqp=CAU"goup-title="Filmes",SONY CHANNEL 
+http://c4n.fun:80/cicera/102030/208885
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJB6n7r8GbzkV0zP2Y8RA2_lh_zEngmOz9YQ&usqp=CAU"goup-title="Filmes",SPACE
+http://c4n.fun:80/cicera/102030/209101
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVvU-CU5bfmDv8-0drRReyrCZai0ljMLH75A&usqp=CAU"goup-title="FILMES",UNIVERSAL STUDIO
+http://c4n.fun:80/cicera/102030/209125
