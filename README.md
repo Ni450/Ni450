@@ -36,8 +36,53 @@ http://c4n.fun:80/cicera/102030/412426
 #EXTINF:-1tvg-logo="https://www.google.com/search?client=lightning&sca_esv=559664296&q=futura+logo+png&tbm=isch&source=lnms&sa=X&ved=2ahUKEwi5opLH7fSAAxWsGrkGHcRGDUoQ0pQJegQIChAB&biw=384&bih=628&dpr=1.88"goup-title="Abertos",Futura
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist.m3u8 
 
-#EXTINF:-1tvg-logo="https://logodownload.org/wp-content/uploads/2019/03/dazn-logo-0-1.png"goup-title="esporte",DAZN 1
-https://server101.shop/dazn/tracks-v1/mono.m3u8?remote=45.161.165.232&token=95d3aaa95630f98a78063e71f4f81b000174a302-e5ce43ec48073cdf13702082b617aded-1692868852-1692861652 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwLF4fwH_S9wMbd-W8oSMSBdxN6C-3In004A&usqp=CAU"goup-title="esporte",DAZN 1
+http://c4n.fun:80/cicera/102030/1617366 
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwLF4fwH_S9wMbd-W8oSMSBdxN6C-3In004A&usqp=CAU"goup-title="ESPORTE",DAZN 2
+http://c4n.fun:80/cicera/102030/1617367
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwLF4fwH_S9wMbd-W8oSMSBdxN6C-3In004A&usqp=CAU"goup-title="ESPORTE",DAZN 3
+http://c4n.fun:80/cicera/102030/1617368
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwLF4fwH_S9wMbd-W8oSMSBdxN6C-3In004A&usqp=CAU"goup-title="ESPORTE",DAZN 4
+http://c4n.fun:80/cicera/102030/1617369
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwLF4fwH_S9wMbd-W8oSMSBdxN6C-3In004A&usqp=CAU"goup-title="ESPORTE",DAZN 5D
+http://c4n.fun:80/cicera/102030/1617370
+
+#EXTINF:-1tv-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwLF4fwH_S9wMbd-W8oSMSBdxN6C-3In004A&usqp=CAU"goup-title="ESPORTE",DAZN 6D
+http://c4n.fun:80/cicera/102030/1617371
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3dsvftFMRv-RUZMRiyeRUbuOq99caBn_81Q&usqp=CAU"goup-title="ESPORTE",ELEVEN 1
+http://c4n.fun:80/cicera/102030/1645876
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3dsvftFMRv-RUZMRiyeRUbuOq99caBn_81Q&usqp=CAU"goup-title="ESPORTE",ELEVEN 2
+http://c4n.fun:80/cicera/102030/1645877
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3dsvftFMRv-RUZMRiyeRUbuOq99caBn_81Q&usqp=CAU"goup-title="ESPORTE",ELEVEN 3
+http://c4n.fun:80/cicera/102030/1645878
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3dsvftFMRv-RUZMRiyeRUbuOq99caBn_81Q&usqp=CAU"goup-title="ESPORTE",ELEVEN 4
+http://c4n.fun:80/cicera/102030/1645879
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3dsvftFMRv-RUZMRiyeRUbuOq99caBn_81Q&usqp=CAU"goup-title="ESPORTE",ELEVEN 5
+http://c4n.fun:80/cicera/102030/1645879
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3dsvftFMRv-RUZMRiyeRUbuOq99caBn_81Q&usqp=CAU"goup-title="ESPORTE",ELEVEN 6
+http://c4n.fun:80/cicera/102030/1645881
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3dsvftFMRv-RUZMRiyeRUbuOq99caBn_81Q&usqp=CAU"goup-title="ESPORTE",ELEVEN 7
+http://c4n.fun:80/cicera/102030/1645882
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3dsvftFMRv-RUZMRiyeRUbuOq99caBn_81Q&usqp=CAU"goup-title="ESPORTE",ELEVEN 8
+http://c4n.fun:80/cicera/102030/1645884
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3dsvftFMRv-RUZMRiyeRUbuOq99caBn_81Q&usqp=CAU"goup-title="ESPORTE",ELEVEN 9
+http://c4n.fun:80/cicera/102030/1645884
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3dsvftFMRv-RUZMRiyeRUbuOq99caBn_81Q&usqp=CAU"goup-title="ESPORTE",ELEVEN 10
+http://c4n.fun:80/cicera/102030/1645885
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn1Mn0JZ3GNC3aoqD589wJ6gUVHULl1DRgtf8zGv37cdl5iz7Aut2q_30&s=10"goup-title="Filmes",Cinemax
 http://c4n.fun:80/cicera/102030/208892
@@ -114,11 +159,20 @@ http://riplay.live:80/salatiel250822/sala0822fire/24347
 #EXTINF:-1tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png"group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
 http://riplay.live:80/salatiel250822/sala0822fire/24409
 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHJ8cmGCURYtNKDBal6gayMrwvYKfD8lbvYg&s"goup-title="Abertos",CANAL DO BOI
-http://c4n.fun:80/cicera/102030/412426
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xEF_H8g2L3RU6U4MhrpzfWz3XCMW26a_TA&usqp=CAU"goup-title"FILMES",A&E
+http://c4n.fun:80/cicera/102030/208849
 
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png"goup-title="INFANTIL",BABY TV
 http://c4n.fun:80/cicera/102030/1454666
 
 #EXTINF:-1tvg-logo="http://c4n.fun:80/cicera/102030/208915"goup-title="INFANTIL",DISCOVERY KIDS
 http://c4n.fun:80/cicera/102030/208915
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu3RlbY00v42c1du5cq5p5GNx8r_hcFgzP4w&usqp=CAU"goup-title="ESPORTE",WWE
+http://c4n.fun:80/cicera/102030/1633359
+
+#EXTINF:-1tvg-logo=""goup-title="ESPORTE",APPLE TV 1
+http://c4n.fun:80/cicera/102030/1646319
+
+#EXTINF:-1tvg-logo=""goup-title="ESPORTE",APPLE TV 2
+http://c4n.fun:80/cicera/102030/1646320
