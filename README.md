@@ -275,3 +275,69 @@ http://c4n.fun:80/cicera/102030/209101
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVvU-CU5bfmDv8-0drRReyrCZai0ljMLH75A&usqp=CAU"goup-title="FILMES",UNIVERSAL STUDIO
 http://c4n.fun:80/cicera/102030/209125
+
+#EXTINF:-1tvg-logo=""goup-title=" VARIEDADES ",ARTE 1https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcwcHhLkkLuerUOxWRiU66jvghm17lIQId7A&usqp=CAU
+http://c4n.fun:80/cicera/102030/208858
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQm2DeOzfTRHm3c0ufZ6WsWX0ftwH_6qKhTQ&usqp=CAU"goup-title=" VARIEDADES ",CURTA
+http://c4n.fun:80/cicera/102030/1621866
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwH04cDbRKUSbCsNkO0ds6XU3iqf5c2mdlIw&usqp=CAU"goup-title=" VARIEDADES ",DOG TV
+http://c4n.fun:80/cicera/102030/1643539
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYiOCu-6CqE0iZ690Rsr8zpJaIH8uH3FMMyQ&usqp=CAU"goup-title=" VARIEDADES",E! ENTERTAINMENT
+http://c4n.fun:80/cicera/102030/208937
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMNXi3voajCyv3Hy_MKGIWKrAyWA-nR5znbw&usqp=CAU"goup-title=" VARIEDADES ",FASHION TV
+http://c4n.fun:80/cicera/102030/208951
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZYjYLXrmPReZnXI1DP7KcQRmW6TMX5rXWWg&usqp=CAU"goup-title=" VARIEDADES ",FOOD NETWORK 
+http://c4n.fun:80/cicera/102030/208954
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSz5ZPYk5FweIkfNz9OWJHYDFHqj5OtZFFvw&usqp=CAU"goup-title=" VARIEDADES ",GNT Full HD
+http://c4n.fun:80/cicera/102030/208981
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRQIo6XDuWqQVzlZIiYfzJcy3-2o9s2OhRg&usqp=CAU"goup-title=" VARIEDADES ",INSPIRE
+http://c4n.fun:80/cicera/102030/1626389
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc2EyiGFQlowPqJG2gLgZ4wm7WBOJLhZPDaw&usqp=CAU"goup-title=" VARIEDADES ",LIFETIME
+http://c4n.fun:80/cicera/102030/209021
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Rh_c6J0mHIhqj4-o3WWVEeJ7UHZ0rZpTlQ&usqp=CAU"goup-title=" VARIEDADES ",LIKE HD
+http://c4n.fun:80/cicera/102030/809080
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvW1HhLPtkk6XMWwczrbyOtfFhNunT201LYQ&usqp=CAU"goup-title=" VARIEDADES ",MODO VIAGEM
+http://c4n.fun:80/cicera/102030/809077
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB8bCXjJgXyXz34CGPEiGpSBb8uGqLXnjhSQ&usqp=CAU"goup-title=" VARIEDADES ",MULTISHOW
+http://c4n.fun:80/cicera/102030/100771
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTngYsaR9lx43a173j7c63jUMRbTKK_3Yp9OA&usqp=CAU"goup-title=" VARIEDADES ",TRAVEL BOX BRASIL
+http://c4n.fun:80/cicera/102030/209162
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4fAaHUAwIKiG2B3o4hS-rNj0HRLMevqz4mn2iYwgMbtaUnn4&s"goup-title=" VARIEDADES ",TRU TV
+http://c4n.fun:80/cicera/102030/99109
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://facebook.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"goup-title=" VARIEDADES ",VIVA FULL HD
+http://c4n.fun:80/cicera/102030/1622162
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo6YcEwuvRJJAlc-BVfilBU9pqc7eUffpTbw&usqp=CAU"goup-title="PPV",NOSSO FUTEBOL 1
+http://r2.shiuk.re:80/Tv9484/Idhdh8382/775358
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo6YcEwuvRJJAlc-BVfilBU9pqc7eUffpTbw&usqp=CAU"goup-title="PPV",NOSSO FUTEBOL 2
+http://r2.shiuk.re:80/Tv9484/Idhdh8382/775359
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo6YcEwuvRJJAlc-BVfilBU9pqc7eUffpTbw&usqp=CAU"goup-title="PPV",NOSSO FUTEBOL 3
+http://r2.shiuk.re:80/Tv9484/Idhdh8382/775360
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo6YcEwuvRJJAlc-BVfilBU9pqc7eUffpTbw&usqp=CAU"goup-title="PPV",NOSSO FUTEBOL 4
+http://r2.shiuk.re:80/Tv9484/Idhdh8382/775361
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxitBJhKr9QK_jMiueLXl9xNR1gmi2JPGdA&usqp=CAU"goup-title="PPV",PRIME VÍDEO 1
+http://r2.shiuk.re:80/Tv9484/Idhdh8382/775366
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxitBJhKr9QK_jMiueLXl9xNR1gmi2JPGdA&usqp=CAU"goup-title="PPV",PRIME VÍDEO 2
+http://r2.shiuk.re:80/Tv9484/Idhdh8382/775367
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxitBJhKr9QK_jMiueLXl9xNR1gmi2JPGdA&usqp=CAU"goup-title="PPV",PRIME VÍDEO 3
+http://r2.shiuk.re:80/Tv9484/Idhdh8382/775368
