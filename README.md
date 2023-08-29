@@ -50,7 +50,7 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/256.ts
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/261.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQii-X4VtQt8O2Ym-PNSIKrVnf7s-5XYQ20ejrVaZA6wxCZwME&s"goup-title="FILMES & SERIES",HBO SIGNATURE
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/262.ts 
-#EXTINF:-1tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://associacaoneo.com.br&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,XTREME,URL&nfrp=2"goup-title="FILMES & SERIES",HBO XTREME 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2TKk7NpLqMb-yQRRrpFxi30gOkeJFT3o9_A&usqp=CAU"goup-title="FILMES & SERIES",HBO XTREME 
 http://sub1.newapp34.xyz:2095/live/Tourobox1-4LFuYHgELc/UqjOJYPl2q/363.ts?token=Q0BQB0ANRAgaBlsKBQgBAFRVAwVXWwRUV1BVC1EBBQ4OBAwDUVxSAQ9HFBEQRRFSUV1qWwEbCAMFVk8aRRZURGcLXEQJR1QBDV0PCkEdQUNZXVAQXwgECQBWUQwCUwEaGhJRAhFfRAMLXQ0EQR1BUkhEUEALWF5vVwAVUVMAEwxWF1QKH0cJXGcBXV4CXwcVChIFEEkbW0NDR1lWRQldGhoAURJBBBJXGl8aAlAJURUcElZdEFdGQkpHWRpyNxMaGgdAElYLFVtXCxoJQUUQFRwSXEE6S1dDRxcGWV0AQxQCQAhEH0cLU0A6W1wNXwZURFlaXBYbCBIHR08aXQpfX0wNSjlDDAIQAkcKBVMFUBVN
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNG-OFEm26hRrIwqR5KmuaG6GMFulkFLkWhQ&usqp=CAU"goup-title="FILMES & SERIES",MEGAPIX HD
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/270.ts 
