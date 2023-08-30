@@ -50,7 +50,7 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/256.ts
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/261.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQii-X4VtQt8O2Ym-PNSIKrVnf7s-5XYQ20ejrVaZA6wxCZwME&s"goup-title="FILMES & SERIES",HBO SIGNATURE
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/262.ts 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2TKk7NpLqMb-yQRRrpFxi30gOkeJFT3o9_A&usqp=CAU"goup-title="FILMES & SERIES",HBO XTREME 
+#EXTINF:-1tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://associacaoneo.com.br&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"goup-title="FILMES & SERIES",HBO XTREME 
 http://sub1.newapp34.xyz:2095/live/Tourobox1-4LFuYHgELc/UqjOJYPl2q/363.ts?token=Q0BQB0ANRAgaBlsKBQgBAFRVAwVXWwRUV1BVC1EBBQ4OBAwDUVxSAQ9HFBEQRRFSUV1qWwEbCAMFVk8aRRZURGcLXEQJR1QBDV0PCkEdQUNZXVAQXwgECQBWUQwCUwEaGhJRAhFfRAMLXQ0EQR1BUkhEUEALWF5vVwAVUVMAEwxWF1QKH0cJXGcBXV4CXwcVChIFEEkbW0NDR1lWRQldGhoAURJBBBJXGl8aAlAJURUcElZdEFdGQkpHWRpyNxMaGgdAElYLFVtXCxoJQUUQFRwSXEE6S1dDRxcGWV0AQxQCQAhEH0cLU0A6W1wNXwZURFlaXBYbCBIHR08aXQpfX0wNSjlDDAIQAkcKBVMFUBVN
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNG-OFEm26hRrIwqR5KmuaG6GMFulkFLkWhQ&usqp=CAU"goup-title="FILMES & SERIES",MEGAPIX HD
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/270.ts 
@@ -59,4 +59,34 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/273.ts
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA9HXkkYDMbmQUfR-G-kLvIDebq0kAXGAJOw&usqp=CAU"goup-title="FILMES & SERIES",PARAMOUNT NETWORK 4K
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/275.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQK0dOQ03oJe0JGYh0xcEkGCcb4NiFOJGKg&usqp=CAU"goup-title="FILMES & SERIES",PRIME BOX BRASIL 
-http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/277.ts
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/277.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO8NiNYa6Qg_MMAK8YsEY4eNOPTRN_dgOBsg&usqp=CAU"goup-title="FILMES & SERIES",SONY CHANNEL 
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/238.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm6vcociVUhtxi3tvN4FY_aH5yfHu_n6Y2TA&usqp=CAU"goup-title="FILMES & SERIES",SPACE HD 
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/278.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR-CsuWkPtt1CQ-AHqLPmEncvp74QehONUrw&usqp=CAU"goup-title="FILMES & SERIES",STAR CHANNEL 
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/282.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwGigKOJCg1eaF48UDOFNtOIFy6TA34ZE6SA&usqp=CAU"goup-title="FILMES & SERIES",STUDIO UNIVERSAL 
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/289.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzhrJONParBDWDFWwAka_G7kaIGgPIYluYcw&usqp=CAU"goup-title="FILMES E SÉRIES",SYFY HD 
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/781.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYF_L_uwIcbn-hFgunxDWcIQBz8fDlFp8mIg&usqp=CAU"goup-title="FILMES E SÉRIES",TNT NOVELAS
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/290.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeeR1_OT_evxHnNxKFvi6wllRtcS7K4KLVLw&usqp=CAU"goup-title="FILMES E SÉRIES",TCM
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/293.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZmhqMW09YJG5fiJ9poVESzkQYDc7p5p2zHw&usqp=CAU"goup-title="FILMES E SÉRIES",TELECINE ACTION
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/294.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCsr02uxLsS6aqLd5qnnoRd-7j13cbqAUiaw&usqp=CAU"goup-title="FILMES E SÉRIES",TELECINE CULT 
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/298.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV6It-YkgPI54ED_-iI2t3iBHRQ2xBe4hIYA&usqp=CAU"goup-title="FILMES E SÉRIES",TELECINE FUN
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/301.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEEampCznzQdY-Pq0DnnRk6c-9AHA_QdgmgQ&usqp=CAU"goup-title="FILMES E SÉRIES",TELECINE PIPOCA
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/304.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyS8IwDuTYguYEri5uhUA-yx-RFEVfx1sB3A&usqp=CAU"goup-title="FILMES E SÉRIES",TELECINE PREMIUM 
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/307.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmf42H9MB-4Q6lyVfrh77qPeG4KFri1nICyg&usqp=CAU"goup-title="FILMES E SÉRIES",TELECINE TOUCH
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/310.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK52-9uGh45YyukO1lAuHkL3z_Uj793GD3pA&usqp=CAU"goup-title="FILMES E SÉRIES",TNT HD 
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/313.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjhjVXO9QVMTP3vfDwaYTdk7mu_taDGYnIw&usqp=CAU"goup-title="FILMES E SÉRIES",TNT SÉRIES 
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/315.ts
