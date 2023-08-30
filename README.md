@@ -55,6 +55,21 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDm
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU"goup-title="",CANAIS ABERTOS 
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU
  
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU"goup-title="",FILMES E SÉRIES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU"goup-title="",FILMES E SÉRIES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU"goup-title="",FILMES E SÉRIES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU"goup-title="",FILMES E SÉRIES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU"goup-title="",FILMES E SÉRIES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU
+
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQflBhFV_vpOxkEo2PDO9eG__hRYJzcU1W2Q&usqp=CAU"goup-title="Filmes & SERIES",A&E
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/225.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsKbtB56LSZzVQPi1nHtFKyR1IrzqZf2Wihw&usqp=CAU"goup-title="FILMES & SERIES",AMC
@@ -123,6 +138,24 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/310.ts
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/313.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjhjVXO9QVMTP3vfDwaYTdk7mu_taDGYnIw&usqp=CAU"goup-title="FILMES E SÉRIES",TNT SÉRIES 
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/315.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDn6OpExjBjCBCC9HQ-IgS8ZulBuCkT0UgoQ&usqp=CAU"goup-title="FILMES E SÉRIES",TRU TV
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/541.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1YwR9J44mCWNlATVz6sZ0-QwHGH0Cak4fw&usqp=CAU"goup-title="",UNIVERSAL CHANNEL
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/319.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE5njyv63wKVB1QYkfOGzsNdqQSROfrhS0Jg&usqp=CAU"goup-title="",WARNER CHANNEL 
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/320.ts 
 
-#EXTINF:-1tvg-logo=""goup-title="FILMES E SÉRIES",TRU TV
-http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/541.ts
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU"goup-title="",FILMES E SÉRIES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU"goup-title="",FILMES E SÉRIES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU"goup-title="",FILMES E SÉRIES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU"goup-title="",FILMES E SÉRIES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU"goup-title="",FILMES E SÉRIES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU
