@@ -1,7 +1,21 @@
 #EXTMU3 
 
+#EXTINF:-1tvg-logo=""goup-title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU",
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU
+
+#EXTINF:-1tvg-logo=""goup-title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU",
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU
+
+#EXTINF:-1tvg-logo=""goup-title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU",
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU
+
+#EXTINF:-1tvg-logo=""goup-title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU",
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU
+
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTexEppdExGF4f3kVclyB2q7MNZMjm0c2Kv2A&usqp=CAU"goup-title="ABERTOS",TV SERGIPE HD
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1163.ts
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQTDnGc-qiH9GCNutZnxLIBWiIIYsVCPi2sw&usqp=CAU"goup-title="ABERTOS",TV ATALAIA
+http://pfsv.io/live/jacare220720/jacare220721/47374.m3u8 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2PlKNBNFGPjiHXFOUG-kr7AYCObMm6lBP8g&usqp=CAU"goup-title="ABERTOS",GLOBO NORDESTE
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/499.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2PlKNBNFGPjiHXFOUG-kr7AYCObMm6lBP8g&usqp=CAU"goup-title="ABERTOS",GLOBO RJ 4K 
@@ -21,7 +35,23 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/547.ts
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiuMDOT3kIPElH43SYv6ePshqAXFIU2-uEwS4jSadAAshGs-HH&s"goup-title="ABERTOS",TV DIÁRIO 
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/548.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHtghEDjQObPNNs17Zgg98OcVL7EbRzK64iQ&usqp=CAU"goup-title="Abertos",CANAL DO BOI
-http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/486.ts 
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/486.ts
+
+#EXTINF:-1tvg-logo=""goup-title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU",
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU
+
+#EXTINF:-1tvg-logo=""goup-title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU",
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU
+
+#EXTINF:-1tvg-logo=""goup-title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU",
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU
+
+#EXTINF:-1tvg-logo=""goup-title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU",
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU
+
+#EXTINF:-1tvg-logo=""goup-title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU",
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU
+ 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQflBhFV_vpOxkEo2PDO9eG__hRYJzcU1W2Q&usqp=CAU"goup-title="Filmes & SERIES",A&E
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/225.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsKbtB56LSZzVQPi1nHtFKyR1IrzqZf2Wihw&usqp=CAU"goup-title="FILMES & SERIES",AMC
@@ -50,7 +80,7 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/256.ts
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/261.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQii-X4VtQt8O2Ym-PNSIKrVnf7s-5XYQ20ejrVaZA6wxCZwME&s"goup-title="FILMES & SERIES",HBO SIGNATURE
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/262.ts 
-#EXTINF:-1tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://associacaoneo.com.br&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"goup-title="FILMES & SERIES",HBO XTREME 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSldWK3jgDsaYKXU8jA2Hy2okyO-pNoLXgipg&usqp=CAU"goup-title="FILMES & SERIES",HBO XTREME 
 http://sub1.newapp34.xyz:2095/live/Tourobox1-4LFuYHgELc/UqjOJYPl2q/363.ts?token=Q0BQB0ANRAgaBlsKBQgBAFRVAwVXWwRUV1BVC1EBBQ4OBAwDUVxSAQ9HFBEQRRFSUV1qWwEbCAMFVk8aRRZURGcLXEQJR1QBDV0PCkEdQUNZXVAQXwgECQBWUQwCUwEaGhJRAhFfRAMLXQ0EQR1BUkhEUEALWF5vVwAVUVMAEwxWF1QKH0cJXGcBXV4CXwcVChIFEEkbW0NDR1lWRQldGhoAURJBBBJXGl8aAlAJURUcElZdEFdGQkpHWRpyNxMaGgdAElYLFVtXCxoJQUUQFRwSXEE6S1dDRxcGWV0AQxQCQAhEH0cLU0A6W1wNXwZURFlaXBYbCBIHR08aXQpfX0wNSjlDDAIQAkcKBVMFUBVN
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNG-OFEm26hRrIwqR5KmuaG6GMFulkFLkWhQ&usqp=CAU"goup-title="FILMES & SERIES",MEGAPIX HD
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/270.ts 
@@ -89,4 +119,10 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/310.ts
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK52-9uGh45YyukO1lAuHkL3z_Uj793GD3pA&usqp=CAU"goup-title="FILMES E SÉRIES",TNT HD 
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/313.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjhjVXO9QVMTP3vfDwaYTdk7mu_taDGYnIw&usqp=CAU"goup-title="FILMES E SÉRIES",TNT SÉRIES 
-http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/315.ts
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/315.ts 
+
+#EXTINF:-1tvg-logo=""goup-title="FILMES E SÉRIES",TRU TV
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/541.ts 
+
+#EXTINF:-1tvg-logo=""goup-title="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU",
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU
