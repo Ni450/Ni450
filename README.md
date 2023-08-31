@@ -179,9 +179,10 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5ho
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/121.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxokMC53sNv6o603c83zNVmEK668HpvozuA&usqp=CAU"goup-title="",COMBATE HD
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/123.ts 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDcm8deDrp_TD
-ZfminS6CrwMFu4y35Uf-8lA&usqp=CAU"goup-title="",ESPN HD
-http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/131.ts 
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2w7pxRhRPZJvDiEkrGvl0yAZY8xwciMoOow&usqp=CAU"goup-title="",ESPN HD
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/130.ts 
+
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTAwYesaQgV8wcjxSy11sjytWNt4q3cME36g&usqp=CAU"goup-title="",ESPN 2
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/135.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xDJiw7Wom0o4OKsh-uZGz6wMtzIqm1Rwqg&usqp=CAU"goup-title="",ESPN 3
@@ -206,7 +207,6 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/156.ts
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/158.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSY2Rckdqzh7cyzUZRpLVhce0yJjXXjEnFcw&usqp=CAU"goup-title="",PREMIERE 7
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/160.ts 
-
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSY2Rckdqzh7cyzUZRpLVhce0yJjXXjEnFcw&usqp=CAU"goup-title="",PREMIERE 8
 http://pfsv.io/live/jacare220720/jacare220721/130240.m3u8
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBNN1yjCgNkVkBVvodQiGDCeHtT2vrREQEg&usqp=CAU"goup-title="",SPORTV 1
