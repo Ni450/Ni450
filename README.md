@@ -81,7 +81,7 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/233.ts
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1N2dxlgrBKBIehbThlweH-Wzbv31BmfY_IQ&usqp=CAU"goup-title="FILMES & SERIES",CANAL BRASIL
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/237.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSe_wiI8_zHsTD_rH5ttSW-M4wkcHE6mvJqA&usqp=CAU"goup-title="FILMES & SERIES",CINEMAX
-http://apps-serv1.xyz:2095/live/Tourobox1-4LFuYHgELc/UqjOJYPl2q/311.ts?token=Q0BQB0ANRAgaVVxWBQgHBwMEDFYGWANVV1BWCFYACFcNBlkCA1ZQBFpHFBEQRRFSUV1qWwEbCAMCVE8aRRZURGcLXEQJR1QBDV0PCkEdQUNZXVAQXwgECQBXVQADVQkaGhJRAhFfRAcPUw8RTxMGT0RVR1wEVW1UVhMKW1VHC1hNDlRKEQoIbVwAVVINVUENEgAXHkdQQUARXw1NXAkdFFoLTBRSEQMQAkcLAVIGQRsSU1pHC01ASRFfQXpiRx0UXRpMA10WD11WRwIRF0JBGxJZRm0XXEFEQQACVVUXEwwaUhpKEQgHSmcGV10NVABDWV9bQUcDEAQRSUFVXwtYQlcQZxZaAUQIGlAPA1ATHg
+http://pfsv.io/live/jacare220720/jacare220721/275.m3u8
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe4IUF8-HFQtdUsTsILowg3S-AsJW8UjLDsA&usqp=CAU"goup-title="FILMES & SERIES",FILM & ARTS
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/242.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIrGXPPjvbRMqlrQSF5lmst8E8l2MgLvMWvw&usqp=CAU"goup-title="FILMES & SERIES",FX HD
@@ -99,7 +99,7 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/261.ts
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQii-X4VtQt8O2Ym-PNSIKrVnf7s-5XYQ20ejrVaZA6wxCZwME&s"goup-title="FILMES & SERIES",HBO SIGNATURE
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/262.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSldWK3jgDsaYKXU8jA2Hy2okyO-pNoLXgipg&usqp=CAU"goup-title="FILMES & SERIES",HBO XTREME 
-http://sub1.newapp34.xyz:2095/live/Tourobox1-4LFuYHgELc/UqjOJYPl2q/363.ts?token=Q0BQB0ANRAgaBlsKBQgBAFRVAwVXWwRUV1BVC1EBBQ4OBAwDUVxSAQ9HFBEQRRFSUV1qWwEbCAMFVk8aRRZURGcLXEQJR1QBDV0PCkEdQUNZXVAQXwgECQBWUQwCUwEaGhJRAhFfRAMLXQ0EQR1BUkhEUEALWF5vVwAVUVMAEwxWF1QKH0cJXGcBXV4CXwcVChIFEEkbW0NDR1lWRQldGhoAURJBBBJXGl8aAlAJURUcElZdEFdGQkpHWRpyNxMaGgdAElYLFVtXCxoJQUUQFRwSXEE6S1dDRxcGWV0AQxQCQAhEH0cLU0A6W1wNXwZURFlaXBYbCBIHR08aXQpfX0wNSjlDDAIQAkcKBVMFUBVN
+http://pfsv.io/live/jacare220720/jacare220721/478.m3u8
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNG-OFEm26hRrIwqR5KmuaG6GMFulkFLkWhQ&usqp=CAU"goup-title="FILMES & SERIES",MEGAPIX HD
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/270.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd6oC2lpYsJujyszLf_INrvMqYvUK1DiOe-Q&usqp=CAU"goup-title="FILMES & SERIES",CANAL OFF
@@ -159,3 +159,74 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68n
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU"goup-title="",FILMES E SÉRIES 
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU"goup-title="", ESPORTES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU"goup-title="",ESPORTES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU"goup-title="",ESPORTES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU"goup-title="",ESPORTES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU"goup-title="",ESPORTES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9PKdGmvNA9lXK9TF6clH3jWUZJ8a-ogDuTA&usqp=CAU"goup-title="",BAND SPORTS 
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/121.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxokMC53sNv6o603c83zNVmEK668HpvozuA&usqp=CAU"goup-title="",COMBATE HD
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/123.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDcm8deDrp_TD
+ZfminS6CrwMFu4y35Uf-8lA&usqp=CAU"goup-title="",ESPN HD
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/131.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTAwYesaQgV8wcjxSy11sjytWNt4q3cME36g&usqp=CAU"goup-title="",ESPN 2
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/135.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xDJiw7Wom0o4OKsh-uZGz6wMtzIqm1Rwqg&usqp=CAU"goup-title="",ESPN 3
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/126.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2iJ92pRhBsuqLPpWXuObszZ0V7Yc0so27Ww&usqp=CAU"goup-title="",ESPN 4
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/899.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPNMaMpl1StLEjVNmZUZQPes1ulODAjI2cqA&usqp=CAU"goup-title="",ESPN EXTRA
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/899.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw-i8V1oLHwtL9By3hp8c0FSu-M0JlGdyoQQ&usqp=CAU"goup-title="",FOX SPORTS 2
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/139.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSY2Rckdqzh7cyzUZRpLVhce0yJjXXjEnFcw&usqp=CAU"goup-title="",PREMIERE CLUBES
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/164.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSY2Rckdqzh7cyzUZRpLVhce0yJjXXjEnFcw&usqp=CAU"goup-title="",PREMIERE 2
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/149.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSY2Rckdqzh7cyzUZRpLVhce0yJjXXjEnFcw&usqp=CAU"goup-title="",PREMIERE 3
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/152.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSY2Rckdqzh7cyzUZRpLVhce0yJjXXjEnFcw&usqp=CAU"goup-title="",PREMIERE 4
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/154.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSY2Rckdqzh7cyzUZRpLVhce0yJjXXjEnFcw&usqp=CAU"goup-title="",PREMIERE 5
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/156.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSY2Rckdqzh7cyzUZRpLVhce0yJjXXjEnFcw&usqp=CAU"goup-title="",PREMIERE 6
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/158.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSY2Rckdqzh7cyzUZRpLVhce0yJjXXjEnFcw&usqp=CAU"goup-title="",PREMIERE 7
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/160.ts 
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSY2Rckdqzh7cyzUZRpLVhce0yJjXXjEnFcw&usqp=CAU"goup-title="",PREMIERE 8
+http://pfsv.io/live/jacare220720/jacare220721/130240.m3u8
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBNN1yjCgNkVkBVvodQiGDCeHtT2vrREQEg&usqp=CAU"goup-title="",SPORTV 1
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/182.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBNN1yjCgNkVkBVvodQiGDCeHtT2vrREQEg&usqp=CAU"goup-title="",SPORTV 2
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/173.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBNN1yjCgNkVkBVvodQiGDCeHtT2vrREQEg&usqp=CAU"goup-title="",SPORTV 3
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/176.ts 
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU"goup-title="",ESPORTES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU"goup-title="",ESPORTES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU"goup-title="",ESPORTES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU"goup-title="",ESPORTES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU"goup-title="",ESPORTES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU
