@@ -190,7 +190,8 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/126.ts
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2iJ92pRhBsuqLPpWXuObszZ0V7Yc0so27Ww&usqp=CAU"goup-title="",ESPN 4
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/899.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPNMaMpl1StLEjVNmZUZQPes1ulODAjI2cqA&usqp=CAU"goup-title="",ESPN EXTRA
-http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/899.ts 
+https://encurtador.com.br/jIQ59 
+
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw-i8V1oLHwtL9By3hp8c0FSu-M0JlGdyoQQ&usqp=CAU"goup-title="",FOX SPORTS 2
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/139.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSY2Rckdqzh7cyzUZRpLVhce0yJjXXjEnFcw&usqp=CAU"goup-title="",PREMIERE CLUBES
@@ -231,5 +232,46 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5ho
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU"goup-title="",ESPORTES 
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU
 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPavrOyWtt1f5GyI0FSGRK3WGsGkXe_CkSQ&usqp=CAU"goup-title="",ESPORTES PPV
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPavrOyWtt1f5GyI0FSGRK3WGsGkXe_CkSQ&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPavrOyWtt1f5GyI0FSGRK3WGsGkXe_CkSQ&usqp=CAU"goup-title="",ESPORTES PPV
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPavrOyWtt1f5GyI0FSGRK3WGsGkXe_CkSQ&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPavrOyWtt1f5GyI0FSGRK3WGsGkXe_CkSQ&usqp=CAU"goup-title="",ESPORTES PPV
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPavrOyWtt1f5GyI0FSGRK3WGsGkXe_CkSQ&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPavrOyWtt1f5GyI0FSGRK3WGsGkXe_CkSQ&usqp=CAU"goup-title="",ESPORTES PPV
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPavrOyWtt1f5GyI0FSGRK3WGsGkXe_CkSQ&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPavrOyWtt1f5GyI0FSGRK3WGsGkXe_CkSQ&usqp=CAU"goup-title="",ESPORTES PPV
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPavrOyWtt1f5GyI0FSGRK3WGsGkXe_CkSQ&usqp=CAU
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Vnm6KY7xYznvCQOosk3Lyq9pdUt2whJatQ&usqp=CAU"goup-title="",ELEVEN 1
 https://encurtador.com.br/qvPZ7 
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Vnm6KY7xYznvCQOosk3Lyq9pdUt2whJatQ&usqp=CAU"goup-title="",ELEVEN 2
+https://encurtador.com.br/oqGV6
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Vnm6KY7xYznvCQOosk3Lyq9pdUt2whJatQ&usqp=CAU"goup-title="",ELEVEN 3
+https://encurtador.com.br/bhDHP
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Vnm6KY7xYznvCQOosk3Lyq9pdUt2whJatQ&usqp=CAU"goup-title="",ELEVEN 4
+http://pfsv.io/live/jacare220720/jacare220721/116082.m3u8
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Vnm6KY7xYznvCQOosk3Lyq9pdUt2whJatQ&usqp=CAU"goup-title="",ELEVEN 5
+https://encurtador.com.br/OST25
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Vnm6KY7xYznvCQOosk3Lyq9pdUt2whJatQ&usqp=CAU"goup-title="",ELEVEN 6
+https://encurtador.com.br/mJNQV
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdxSSwdWPqzd-WufQXq2hUUMUwoOcaHsF1A&usqp=CAU"goup-title="",NOSSO FUTEBOL 1
+https://encurtador.com.br/dgmI5
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdxSSwdWPqzd-WufQXq2hUUMUwoOcaHsF1A&usqp=CAU"goup-title="",NOSSO FUTEBOL 2
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1136.ts
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdxSSwdWPqzd-WufQXq2hUUMUwoOcaHsF1A&usqp=CAU"goup-title="",NOSSO FUTEBOL 3
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1137.ts 
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdxSSwdWPqzd-WufQXq2hUUMUwoOcaHsF1A&usqp=CAU"goup-title="",NOSSO FUTEBOL 3
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1138.ts 
