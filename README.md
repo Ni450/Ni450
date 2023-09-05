@@ -165,6 +165,8 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5ho
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9PKdGmvNA9lXK9TF6clH3jWUZJ8a-ogDuTA&usqp=CAU"goup-title="",BAND SPORTS 
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/121.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxokMC53sNv6o603c83zNVmEK668HpvozuA&usqp=CAU"goup-title="",COMBATE HD
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFxokMC53sNv6o603c83zNVmEK668HpvozuA&usqp=CAU"goup-title="",COMBATE 4K
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/502
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/123.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2w7pxRhRPZJvDiEkrGvl0yAZY8xwciMoOow&usqp=CAU"goup-title="",ESPN HD
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/130.ts 
