@@ -171,13 +171,13 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/123.ts
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2w7pxRhRPZJvDiEkrGvl0yAZY8xwciMoOow&usqp=CAU"goup-title="",ESPN HD
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/130.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTAwYesaQgV8wcjxSy11sjytWNt4q3cME36g&usqp=CAU"goup-title="",ESPN 2
-http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/135.ts 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/331 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xDJiw7Wom0o4OKsh-uZGz6wMtzIqm1Rwqg&usqp=CAU"goup-title="",ESPN 3
-http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/126.ts 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/328 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2iJ92pRhBsuqLPpWXuObszZ0V7Yc0so27Ww&usqp=CAU"goup-title="",ESPN 4
-http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/899.ts 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/504 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPNMaMpl1StLEjVNmZUZQPes1ulODAjI2cqA&usqp=CAU"goup-title="",ESPN EXTRA
-https://encurtador.com.br/jIQ59 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/332 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw-i8V1oLHwtL9By3hp8c0FSu-M0JlGdyoQQ&usqp=CAU"goup-title="",FOX SPORTS 2
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/139.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSY2Rckdqzh7cyzUZRpLVhce0yJjXXjEnFcw&usqp=CAU"goup-title="",PREMIERE CLUBES
