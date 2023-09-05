@@ -87,8 +87,12 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/256.ts
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/261.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQii-X4VtQt8O2Ym-PNSIKrVnf7s-5XYQ20ejrVaZA6wxCZwME&s"goup-title="FILMES & SERIES",HBO SIGNATURE
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/262.ts 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSldWK3jgDsaYKXU8jA2Hy2okyO-pNoLXgipg&usqp=CAU"goup-title="FILMES & SERIES",HBO XTREME 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSldWK3jgDsaYKXU8jA2Hy2okyO-pNoLXgipg&usqp=CAU"goup-title="FILMES & SERIES",HBO XTREME UHD
 http://pfsv.io/live/jacare220720/jacare220721/478.m3u8
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSldWK3jgDsaYKXU8jA2Hy2okyO-pNoLXgipg&usqp=CAU"goup-title="",HBO XTREME HD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/363
+
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNG-OFEm26hRrIwqR5KmuaG6GMFulkFLkWhQ&usqp=CAU"goup-title="FILMES & SERIES",MEGAPIX HD
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/270.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd6oC2lpYsJujyszLf_INrvMqYvUK1DiOe-Q&usqp=CAU"goup-title="FILMES & SERIES",CANAL OFF
@@ -131,7 +135,11 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/315.ts
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/541.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1YwR9J44mCWNlATVz6sZ0-QwHGH0Cak4fw&usqp=CAU"goup-title="",UNIVERSAL CHANNEL
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/319.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1YwR9J44mCWNlATVz6sZ0-QwHGH0Cak4fw&usqp=CAU"goup-title="",UNIVERSAL CHANNEL 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/419
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE5njyv63wKVB1QYkfOGzsNdqQSROfrhS0Jg&usqp=CAU"goup-title="",WARNER CHANNEL 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE5njyv63wKVB1QYkfOGzsNdqQSROfrhS0Jg&usqp=CAU"goup-title="",WARNER HD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/422
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/320.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU"goup-title="",FILMES E SÉRIES 
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGO6eB5yA8SMVsSFhJwgNn68nWwnx_HCVFA&usqp=CAU
