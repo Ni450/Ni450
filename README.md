@@ -66,7 +66,7 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/228.ts
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWvUBxGbOqHdTrWq_FmueBRvev3Fl2GlyVrg&usqp=CAU"goup-title="FILMES & SERIES",ARTE 1
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/231.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTahv9gmakQwvQ0Co9pPvY8RduF7zx8ndveyw&usqp=CAU"goup-title="FILMES & SERIES",AXN 4K 
-http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/233.ts 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/304 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1N2dxlgrBKBIehbThlweH-Wzbv31BmfY_IQ&usqp=CAU"goup-title="FILMES & SERIES",CANAL BRASIL
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/237.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSe_wiI8_zHsTD_rH5ttSW-M4wkcHE6mvJqA&usqp=CAU"goup-title="FILMES & SERIES",CINEMAX
@@ -431,3 +431,71 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKz
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU"goup-title="",CANAIS RELIGIOSOS 
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s"goup-title="",INFANTIL 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s"goup-title="",INFANTIL 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s"goup-title="",INFANTIL 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s"goup-title="",INFANTIL 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s"goup-title="",INFANTIL 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdIL3_KDW8iqWzybrmTWJb-t0jkgprmfm7A&usqp=CAU"goup-title="",3 palavrinhas 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/723
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vYkzXNKyr3ZMwTZ6_8Of2rKeNXoA5bt0PA&usqp=CAU"goup-title="",CARTOON NETWORK 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/252
+#EXTINF:-1tvg-logo=""goup-title="",
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPjKG3jwSoubW_PUtLxXsX3mQO-mhkGrdFXg&usqp=CAU"goup-title="",CARTOONITO
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/281
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLZd23DEzXf5cQ3Y-dG0uFyqJ060vzJudovQEuTpuGbpg8mxE&s"goup-title="",DISCOVERY KIDS 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/255
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3vM_NFfofffOI1tNnoqQhFHGi0s2so5XiKVzcUrs8192Sd7I&s"goup-title="",DISNEY CHANNEL 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/257
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOdw_nxcxBgMaL0Ef0uecLWvuqAKJbNYFClrXiA8pkouPzJIp&s"goup-title="",DISNEY CLÁSSICOS 1
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/258
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOdw_nxcxBgMaL0Ef0uecLWvuqAKJbNYFClrXiA8pkouPzJIp&s"goup-title="",DISNEY CLÁSSICOS 2
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkEdxyEDlBKbbc83r3VC_gagaktPH4i0C4Fbjt-pDlmiDU1v0&s"goup-title="",GLOOB
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/265
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJL4wvJNyEq6M8kwwIOuMaiUG1Fzy2ujFjpzCwtWAmzm-Xm42I&s"goup-title="",GLOBINHO
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/267
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmHRXZOL5m1Veg5v3gZWFHoOgRNZ7NKiEhOp_obZIRQV1kCOQ&s"goup-title="",NICK JR
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/271
+#EXTINF:-1tvg-logo=""goup-title="",
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF5ogahR7QBTrxiYiwmLRNcxWt7ZQ3W5JiI9ZO9cwepd0MgnNT&s"goup-title="",NICKELODEON 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/273
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmoQmjC8sESlg1jnVsxbkP5GJu72L1Y3ty4A&usqp=CAU"goup-title="",TOOCAST HD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/275
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5gjyOL5I67ePG3ZjVzSugKGt3PjvypcNtZQ&usqp=CAU"goup-title="",TV RÁ TIM BUM
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/529
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Oz0UBu5daN-sDm8NfEWtH5aZZuHhoQ_RCQ&s"goup-title="",ZOOMOO HD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/279
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s"goup-title="",INFANTIL 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s"goup-title="",INFANTIL 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s"goup-title="",INFANTIL 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s"goup-title="",INFANTIL 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s
