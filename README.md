@@ -230,3 +230,27 @@ http://pfsv.io/live/jacare220720/jacare220721/132317.m3u8
 http://pfsv.io/live/jacare220720/jacare220721/132318.m3u8
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR0ijHFm5-8W3SI47vo9jiNW841e_HW246YA&usqp=CAU"goup-title="",DAZN 4
 http://pfsv.io/live/jacare220720/jacare220721/132319.m3u8
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSChMfOZzfw4Ja2YJIXmBbDNLwyfodSC2OUIw&usqp=CAU"goup-title="",CAZÉ TV
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1149.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTICT3K35GjoW1kJ09DmHmZTiTRZVO6lZS_Xw&usqp=CAU"goup-title="",STAR +1
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/505
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTICT3K35GjoW1kJ09DmHmZTiTRZVO6lZS_Xw&usqp=CAU"goup-title="",STAR +2
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/826.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTICT3K35GjoW1kJ09DmHmZTiTRZVO6lZS_Xw&usqp=CAU"goup-title="",STAR +3
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/827.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTICT3K35GjoW1kJ09DmHmZTiTRZVO6lZS_Xw&usqp=CAU"goup-title="",STAR +4
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/828.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTICT3K35GjoW1kJ09DmHmZTiTRZVO6lZS_Xw&usqp=CAU"goup-title="",STAR +5
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1151.ts 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTICT3K35GjoW1kJ09DmHmZTiTRZVO6lZS_Xw&usqp=CAU"goup-title="",STAR +6
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1156.ts 
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTICT3K35GjoW1kJ09DmHmZTiTRZVO6lZS_Xw&usqp=CAU"goup-title="",STAR +7
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1157.ts
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTICT3K35GjoW1kJ09DmHmZTiTRZVO6lZS_Xw&usqp=CAU"goup-title="",STAR +8
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1158.ts
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxX6B9wtdEafEd-MkwIr4Fy6H06-ujs8FAWg&usqp=CAU"goup-title="",UFC FIGHT PASS
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1125.ts
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiL3ZOd0Okm6mVod3ldZGWELU1L7g_qgeorw&usqp=CAU"goup-title="",UFC PPV
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1126.ts
