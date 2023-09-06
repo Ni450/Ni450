@@ -254,3 +254,13 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1158.ts
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1125.ts
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiL3ZOd0Okm6mVod3ldZGWELU1L7g_qgeorw&usqp=CAU"goup-title="",UFC PPV
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1126.ts
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLnPls96569NbxSW56tOh9YSGeRuhwmcs6Q&usqp=CAU"goup-title="",PARAMOUNT + UHD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/541
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLnPls96569NbxSW56tOh9YSGeRuhwmcs6Q&usqp=CAU"goup-title="",PARAMOUNT +1
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/780
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLnPls96569NbxSW56tOh9YSGeRuhwmcs6Q&usqp=CAU"goup-title="",PARAMOUNT +2
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/781
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLnPls96569NbxSW56tOh9YSGeRuhwmcs6Q&usqp=CAU"goup-title="",PARAMOUNT +3
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/782
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLnPls96569NbxSW56tOh9YSGeRuhwmcs6Q&usqp=CAU"goup-title="",PARAMOUNT +4
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/783
