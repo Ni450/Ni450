@@ -365,3 +365,69 @@ http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/514
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdzwft228PN60Oh7Z7usEiHjwU8Eyr49TX7A&usqp=CAU"goup-title="",WOHOO HD
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/424
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU"goup-title="",CANAIS VARIEDADES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU"goup-title="",CANAIS VARIEDADES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU"goup-title="",CANAIS VARIEDADES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU"goup-title="",CANAIS VARIEDADES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU"goup-title="",CANAIS VARIEDADES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU"goup-title="",CANAIS RELIGIOSOS 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU"goup-title="",CANAIS RELIGIOSOS 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU"goup-title="",CANAIS RELIGIOSOS 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU"goup-title="",CANAIS RELIGIOSOS 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU"goup-title="",CANAIS RELIGIOSOS 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR318VwCQmrWC5psXLxtSsmossGZwf6l5Wc-w&usqp=CAU"goup-title="",TV APARECIDA 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/553
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW88R7kHbtRVSRHH9MBSn0heq34kNB-qHDDQ&usqp=CAU"goup-title="",REDE VIDA 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/390
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06VmSeKKiunnNdQkUb_oTkE39UG04ErGIxg&usqp=CAU"goup-title="",CANÇÃO NOVA 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/699
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fwwnikBPcC2Q_HjmgdeBCNnQlCFbi31OOQ&usqp=CAU"goup-title="",PAI ETERNO 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/428
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsRnSPyZCGqL0JTg_SuPVNmBZmeA8I0OhQvP-Z1XUTfTPiJeAb&s"goup-title="",TV NOVO TEMPO
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/551
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ5lHK6HiPhWTK76g715M5ePiIk00z9f_V8WvkNvt042aHquTs&s"goup-title="",REDE GOSPEL 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/697
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Pdi28FqJWl1LEGw9ZPgI4bOhm6IOVbi_rbFb238RUxteXJjB&s"goup-title="",TV EVANGELIZAR
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/695
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU"goup-title="",CANAIS RELIGIOSOS 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU"goup-title="",CANAIS RELIGIOSOS 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU"goup-title="",CANAIS RELIGIOSOS 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU"goup-title="",CANAIS RELIGIOSOS 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU"goup-title="",CANAIS RELIGIOSOS 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU
