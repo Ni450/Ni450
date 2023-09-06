@@ -1,4 +1,5 @@
 #EXTMU3 
+
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU"goup-title="",CANAIS ABERTOS 
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU"goup-title="",CANAIS ABERTOS 
@@ -282,6 +283,21 @@ http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/783
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPavrOyWtt1f5GyI0FSGRK3WGsGkXe_CkSQ&usqp=CAU"goup-title="",ESPORTES PPV ONLINE 
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/989.ts
 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU"goup-title="",ESPORTES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU"goup-title="",ESPORTES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU"goup-title="",ESPORTES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU"goup-title="",ESPORTES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU"goup-title="",ESPORTES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLfSNlKGr2F6MKhF9Sft7n5hoOAAI8T-Hbw&usqp=CAU
+
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU"goup-title="",CANAIS VARIEDADES 
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU
 
@@ -293,3 +309,50 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU"goup-title="",CANAIS VARIEDADES 
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsaFC2FOqngCXBhSOh3eINjbRbWK5qcf4aWQ&usqp=CAU"goup-title="",BIS HD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/452
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc39womfTvooz5cXbcWvzvt67dzYZ5HCsk8g&usqp=CAU"goup-title="",COMEDY CENTRAL 4K
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/513
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwjad9c3JzwFLQRY0JoLtoGJ-wqd7oQF7tuQ&usqp=CAU"goup-title="",CURTA! HD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/316
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZZw_iuUJ3-58wzKBBN0FChabEvyV99pADnA&usqp=CAU"goup-title="",E! HD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/326
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ98YmsCHVCFoTm_dzMvLbVtBtiISMLnwaYw&usqp=CAU"goup-title="",FOOD NETWORK HD 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/732
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQluX0BbDA1sheg8IkLo840rGPScim0nSnYuw&usqp=CAU"goup-title="",GNT UHD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/349
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8mBkXPLsLRV7ixPU7gSrAD_wIhNqdcxqqQ&usqp=CAU"goup-title="",MTV LIVE
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/443
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzqsYBNh7fTIgayx57AuEjyFczkrmybvV8AQ&usqp=CAU"goup-title="",MTV UHD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/453
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqswrnN5wZbM0dH8JmgEDj3dNdZxhmvVhBkw&usqp=CAU"goup-title="",MTV'S 00
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/454
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8fCZM9neogA3UZJezb9Si9qtjEnqdgCoMaQ&usqp=CAU"goup-title="",MULTISHOW HD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/372
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLznlkT7Vli1qcwvGIIgRsPL641bub-1OWEw&usqp=CAU"goup-title="",MUSIC BOX BRASIL 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/445
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbvobNdu559nXcWAAKhUHT-c8ilUXZHKGxvA&usqp=CAU"goup-title="",POLISHOP HD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/749
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQArH1P06iI-B4DoXNkdJEHPL442AR0Gf896w&usqp=CAU"goup-title="",SABOR & ARTE 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/747
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpC5VgOLeRIX96_WG3qrQIxpUY0HC_UluhZA&usqp=CAU"goup-title="",TRAVEL BOX BRASIL 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/442
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWEzG0vcVHaWNTVy7geE66s0q5-exQrlV9sA&usqp=CAU"goup-title="",VIVA HD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/420
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdzwft228PN60Oh7Z7usEiHjwU8Eyr49TX7A&usqp=CAU"goup-title="",WOHOO HD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/424
