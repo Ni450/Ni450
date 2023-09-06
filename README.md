@@ -224,9 +224,9 @@ http://pfsv.io/live/jacare220720/jacare220721/116084.m3u8
 http://pfsv.io/live/jacare220720/jacare220721/116085.m3u8
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Vnm6KY7xYznvCQOosk3Lyq9pdUt2whJatQ&usqp=CAU"goup-title="",ELEVEN 8
 http://pfsv.io/live/jacare220720/jacare220721/116086.m3u8
-#EXTINF:-1tvg-logo=""goup-title="",ELEVEN 9
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Vnm6KY7xYznvCQOosk3Lyq9pdUt2whJatQ&usqp=CAU"goup-title="",ELEVEN 9
 http://pfsv.io/live/jacare220720/jacare220721/116087.m3u8
-#EXTINF:-1tvg-logo=""goup-title="",
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Vnm6KY7xYznvCQOosk3Lyq9pdUt2whJatQ&usqp=CAU"goup-title="",ELEVEN 10
 /live/jacare220720/jacare220721/116086.m3u8
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdxSSwdWPqzd-WufQXq2hUUMUwoOcaHsF1A&usqp=CAU"goup-title="",NOSSO FUTEBOL 1
 https://encurtador.com.br/dgmI5
