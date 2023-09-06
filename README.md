@@ -1,5 +1,4 @@
 #EXTMU3 
-
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU"goup-title="",CANAIS ABERTOS 
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU"goup-title="",CANAIS ABERTOS 
@@ -279,3 +278,18 @@ http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/781
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/782
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLnPls96569NbxSW56tOh9YSGeRuhwmcs6Q&usqp=CAU"goup-title="",PARAMOUNT +4
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/783
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPavrOyWtt1f5GyI0FSGRK3WGsGkXe_CkSQ&usqp=CAU"goup-title="",ESPORTES PPV ONLINE 
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/989.ts
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU"goup-title="",CANAIS VARIEDADES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU"goup-title="",CANAIS VARIEDADES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU"goup-title="",CANAIS VARIEDADES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU"goup-title="",CANAIS VARIEDADES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU"goup-title="",CANAIS VARIEDADES 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU
