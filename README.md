@@ -330,6 +330,8 @@ http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/732
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQluX0BbDA1sheg8IkLo840rGPScim0nSnYuw&usqp=CAU"goup-title="",GNT UHD
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/349
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQluX0BbDA1sheg8IkLo840rGPScim0nSnYuw&usqp=CAU"goup-title="",GNT 4K
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/517
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8mBkXPLsLRV7ixPU7gSrAD_wIhNqdcxqqQ&usqp=CAU"goup-title="",MTV LIVE
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/443
