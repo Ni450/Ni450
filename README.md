@@ -36,7 +36,7 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1114.ts
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZarq5gf3Zz_ayN_gt_vl05JtB0zT_ixXUvw&usqp=CAU"goup-title="",TV BRASIL 2
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/704.ts
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFhvyJ9VZgV_Ir-Xg6j4FZ8DnXkuxpSojibg&usqp=CAU"goup-title="ABERTOS",TV CULTURA 
-http://dns.maxptv.net:2052/edvannovomundo/vitor/197 
+http://dns.maxptv.net:2052/edvannovomundo/vitor/196 
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiuMDOT3kIPElH43SYv6ePshqAXFIU2-uEwS4jSadAAshGs-HH&s"goup-title="ABERTOS",TV DIÁRIO 
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/548.ts 
