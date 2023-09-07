@@ -26,19 +26,18 @@ http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/538
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/523.ts
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4YMm2jWHoGKGCo-4sWWY1rebgyceTH8w_BQ&usqp=CAU"goup-title="ABERTOS",REDE BRASIL 
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1441828501.m3u8
-
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYzN7w77SUO6FoHpzIG6IpBcchtYQleDr4a7zwgEURFAYdXNk&s"goup-title="ABERTOS",SBT 4K
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/510
-
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYzN7w77SUO6FoHpzIG6IpBcchtYQleDr4a7zwgEURFAYdXNk&s"goup-title="",SBT HD
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/391
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/540.ts
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4mrLdHMMnA6sond34WJl5jQZRCWtOZNCHIQ&usqp=CAU"goup-title="ABERTOS",TV BRASIL 
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1114.ts 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4mrLdHMMnA6sond34WJl5jQZRCWtOZNCHIQ&usqp=CAU"goup-title="",TV BRASIL 2
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZarq5gf3Zz_ayN_gt_vl05JtB0zT_ixXUvw&usqp=CAU"goup-title="",TV BRASIL 2
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/704.ts
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFhvyJ9VZgV_Ir-Xg6j4FZ8DnXkuxpSojibg&usqp=CAU"goup-title="ABERTOS",TV CULTURA 
-http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/547.ts 
+http://dns.maxptv.net:2052/edvannovomundo/vitor/197 
+
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiuMDOT3kIPElH43SYv6ePshqAXFIU2-uEwS4jSadAAshGs-HH&s"goup-title="ABERTOS",TV DIÁRIO 
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/548.ts 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHtghEDjQObPNNs17Zgg98OcVL7EbRzK64iQ&usqp=CAU"goup-title="Abertos",CANAL DO BOI
@@ -456,7 +455,6 @@ http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/723
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5vYkzXNKyr3ZMwTZ6_8Of2rKeNXoA5bt0PA&usqp=CAU"goup-title="",CARTOON NETWORK 
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/252
-#EXTINF:-1tvg-logo=""goup-title="",
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPjKG3jwSoubW_PUtLxXsX3mQO-mhkGrdFXg&usqp=CAU"goup-title="",CARTOONITO
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/281
