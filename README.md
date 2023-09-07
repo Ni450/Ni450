@@ -307,25 +307,25 @@ http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/514
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzBqfyRqeuhntgHCyc1JCC-f6Ovgq3QR-DA&usqp=CAU"goup-title="",WOHOO HD
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/424
 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU"goup-title="",TV APARECIDA 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe3XkM5Ac9Bl5hhbzyzk9iHpnpRMy1Un37Dw&usqp=CAU"goup-title="",TV APARECIDA 
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/553
 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU"goup-title="",REDE VIDA 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe3XkM5Ac9Bl5hhbzyzk9iHpnpRMy1Un37Dw&usqp=CAU"goup-title="",REDE VIDA 
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/390
 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU"goup-title="",CANÇÃO NOVA 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe3XkM5Ac9Bl5hhbzyzk9iHpnpRMy1Un37Dw&usqp=CAU"goup-title="",CANÇÃO NOVA 
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/699
 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU"goup-title="",PAI ETERNO 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe3XkM5Ac9Bl5hhbzyzk9iHpnpRMy1Un37Dw&usqp=CAU"goup-title="",PAI ETERNO 
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/428
 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU"goup-title="",TV NOVO TEMPO
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe3XkM5Ac9Bl5hhbzyzk9iHpnpRMy1Un37Dw&usqp=CAU"goup-title="",TV NOVO TEMPO
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/551
 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU"goup-title="",REDE GOSPEL 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe3XkM5Ac9Bl5hhbzyzk9iHpnpRMy1Un37Dw&usqp=CAU"goup-title="",REDE GOSPEL 
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/697
 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeq_tdDg5kEbdt3aqfSd4zWsKzqpI5Wgy25g&usqp=CAU"goup-title="",TV EVANGELIZAR
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe3XkM5Ac9Bl5hhbzyzk9iHpnpRMy1Un37Dw&usqp=CAU"goup-title="",TV EVANGELIZAR
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/695
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s"goup-title="",3 palavrinhas 
@@ -354,6 +354,7 @@ http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/267
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s"goup-title="",NICK JR
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/271
+#EXTINF:-1tvg-logo=""goup-title="",
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s"goup-title="",NICKELODEON 
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/273
