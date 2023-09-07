@@ -354,7 +354,6 @@ http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/267
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s"goup-title="",NICK JR
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/271
-#EXTINF:-1tvg-logo=""goup-title="",
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s"goup-title="",NICKELODEON 
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/273
