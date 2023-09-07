@@ -499,3 +499,51 @@ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s"goup-title="",INFANTIL 
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZY9Q3JqTgtDMRzZD-6rLaV7AMMOh6v8mPcobLgfx6x730A&s
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBnMPZ717e4m_xKyZhARsRE6nCkdBkYtx4A&usqp=CAU"goup-title="",DOCUMENTARIOS 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBnMPZ717e4m_xKyZhARsRE6nCkdBkYtx4A&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBnMPZ717e4m_xKyZhARsRE6nCkdBkYtx4A&usqp=CAU"goup-title="",DOCUMENTARIOS
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBnMPZ717e4m_xKyZhARsRE6nCkdBkYtx4A&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBnMPZ717e4m_xKyZhARsRE6nCkdBkYtx4A&usqp=CAU"goup-title="",DOCUMENTARIOS
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBnMPZ717e4m_xKyZhARsRE6nCkdBkYtx4A&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBnMPZ717e4m_xKyZhARsRE6nCkdBkYtx4A&usqp=CAU"goup-title="",DOCUMENTARIOS
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBnMPZ717e4m_xKyZhARsRE6nCkdBkYtx4A&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBnMPZ717e4m_xKyZhARsRE6nCkdBkYtx4A&usqp=CAU"goup-title="",DOCUMENTARIOS
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBnMPZ717e4m_xKyZhARsRE6nCkdBkYtx4A&usqp=CAU
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu39391PNOB2i2RWbJyB6WG6nICUTsTT1gAQ&usqp=CAU"goup-title="",DISCOVERY CHANNEL 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/318
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIDyTgAws3YhWiz_g5aMBz937O-cl-SD0aCQ&usqp=CAU"goup-title="",DISCOVERY H&H 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/320
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmFYPBC-p1BOz5Qvn7xGe_l1dynfuBtat8_A&usqp=CAU"goup-title="",DISCOVERY ID
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/369
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkQSXmd0c8N5UPB_8yxFXgHh4m5XQDt42yWA&usqp=CAU"goup-title="",DISCOVERY SCIENSE
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/321
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_fRy82uARjNym3kY8jXplBTKi6MZMtt5jQ&usqp=CAU"goup-title="",DISCOVERY THEATER 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/322
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBtKdj7IC2Dm2wqgvIQzG97wYi9QN5Cysnw&usqp=CAU"goup-title="",DISCOVERY TURBO
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/324
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ73P1McT0MPIVvwXF16Dmif4nDRZpUW2KDCA&usqp=CAU"goup-title="",DISCOVERY WORLD 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/325
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ZcNEtXRWtFKoTa1Bd1EB8NxDojwlj9BXBQ&usqp=CAU"goup-title="",HISTORY CHANNEL 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/351
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOy4pV0n1pI_0_xIjFg0sKQ7gQt6cobO1Xw&usqp=CAU"goup-title="",H2
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/723
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAaswc6n-ZKUhWu5naKPT04ugVjJ-vLNrWGg&usqp=CAU"goup-title="",NATIONAL GEOGRAPHIC 
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/373
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9w5eYX1K5Lu4NCLPzKTysiHHJC3IwIudSQ&usqp=CAU"goup-title="",TLC HD
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/403
