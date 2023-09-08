@@ -613,4 +613,3 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/433.ts 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS48Ck57VENIUqk23NTeObc3wr1-4spW-t4HQ&usqp=CAU" group-title="NOTÍCIAS ", RECORD NEWS 
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/706
-
