@@ -1,6 +1,6 @@
 #EXTMU3 
 
-############## ABERTOS #################
+############## ABERTOS ##################
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sUahE8HpO65UesXS5xsUqgDmMzrKK9ns5A&usqp=CAU"goup-title="ABERTOS",TV SERGIPE HD
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1163.ts
