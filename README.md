@@ -610,8 +610,8 @@ http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/514
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/420
 
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc39womfTvooz5cXbcWvzvt67dzYZ5HCsk8g&usqp=CAU" group-title="VARIEDADES ", COMEDY CENTRAL FHD
- http://turoisherego.xyz:2095/Tourobox1-lhriT7zIyI/7NBuYq0yyf/446
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc39womfTvooz5cXbcWvzvt67dzYZ5HCsk8g&usqp=CAU" group-title="VARIEDADES ", COMEDY CENTRAL 
+ http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/446
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsaFC2FOqngCXBhSOh3eINjbRbWK5qcf4aWQ&usqp=CAU" group-title="VARIEDADES ", BIS
 
