@@ -697,3 +697,43 @@ http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/252
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPjKG3jwSoubW_PUtLxXsX3mQO-mhkGrdFXg&usqp=CAU" group-title="INFANTIL ", CARTOONITO 
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3vM_NFfofffOI1tNnoqQhFHGi0s2so5XiKVzcUrs8192Sd7I&s" group-title="INFANTIL ", DISNEY CHANNEL
+
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/257
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOdw_nxcxBgMaL0Ef0uecLWvuqAKJbNYFClrXiA8pkouPzJIp&s" group-title="INFANTIL ", DISNEY CLÁSSICOS 
+
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/258
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJL4wvJNyEq6M8kwwIOuMaiUG1Fzy2ujFjpzCwtWAmzm-Xm42I&s" group-title="INFANTIL ", GLOBINHO
+
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/267
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkEdxyEDlBKbbc83r3VC_gagaktPH4i0C4Fbjt-pDlmiDU1v0&s" group-title="INFANTIL ", GLOOB
+
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/265
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmHRXZOL5m1Veg5v3gZWFHoOgRNZ7NKiEhOp_obZIRQV1kCOQ&s" group-title="INFANTIL ", NICK JR
+
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/271
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF5ogahR7QBTrxiYiwmLRNcxWt7ZQ3W5JiI9ZO9cwepd0MgnNT&s" group-title="INFANTIL ", NICKELODEON
+
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/273
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5gjyOL5I67ePG3ZjVzSugKGt3PjvypcNtZQ&usqp=CAU" group-title="INFANTIL ", TV RÁ TIM BUM 
+
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/529
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Oz0UBu5daN-sDm8NfEWtH5aZZuHhoQ_RCQ&s" group-title="INFANTIL ", ZOOMOO HD
+
+http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/279
+
+
