@@ -615,7 +615,7 @@ http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/420
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc39womfTvooz5cXbcWvzvt67dzYZ5HCsk8g&usqp=CAU" group-title="VARIEDADES ", COMEDY CENTRAL HD
 
-http://psfv.io/live/jacare220720/jacare220721/97.m3u8
+http://psfv.io/live/jacare220720/jacare220721/106.m3u8
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsaFC2FOqngCXBhSOh3eINjbRbWK5qcf4aWQ&usqp=CAU" group-title="VARIEDADES ", BIS
