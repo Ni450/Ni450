@@ -498,7 +498,7 @@ http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/424
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/279
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD5Ruq2biZN1pcy_jfU6MpfkX7QLzLdjTyKw&usqp=CAU" group-title="ABERTOS ", TV SERGIPE HD
-http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1163.ts
+http://pfsv.io/live/jacare220720/jacare220721/359.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs8IlNoL_5lHXZYkZzwb_S29ZtUk3RhK4ONg&usqp=CAU" group-title="ABERTOS ", TV ATALAIA
 http://pfsv.io/live/jacare220720/jacare220721/47374.m3u8
