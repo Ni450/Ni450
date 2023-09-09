@@ -60,12 +60,12 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/504.ts
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1441828501.m3u8
 
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkMM8rzb_plOvwpB2O5Zs6_K43_q7AIYkaIg&usqp=CAU" group-title="ABERTOS ", SBT HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkMM8rzb_plOvwpB2O5Zs6_K43_q7AIYkaIg&usqp=CAU" group-title="ABERTOS ", SBT FHD
 
-http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/391
+http://psfv.io/live/jacare220720/jacare220721/46.m3u8
 
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkMM8rzb_plOvwpB2O5Zs6_K43_q7AIYkaIg&usqp=CAU" group-title="ABERTOS ", SBT 4K
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkMM8rzb_plOvwpB2O5Zs6_K43_q7AIYkaIg&usqp=CAU" group-title="ABERTOS ", SBT REDE MASSA
 
 http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/391
 
