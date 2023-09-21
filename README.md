@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA ", A FAZENDA
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA ", A FAZENDA 15
 
 http://pfsv.io/live/jacare220720/jacare220721/161381.m3u8
 
