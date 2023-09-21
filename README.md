@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 1
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1173.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 2
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1174.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 3
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1175.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 4
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1176.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 5
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 5
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1177.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 6
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 6
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1178.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 7
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 7
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1179.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXB0uKA5gAXiLTz8-L8arpqxnlL1B-Epft2g&usqp=CAU" group-title="ABERTOS ", TV SERGIPE HD
@@ -26,7 +26,7 @@ http://axr.life:80/574978/fu@sionp2@/1263271
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs19qc4jYJkmRTREgcgxoPb0M33X41O2E3rQ&usqp=CAU" group-title="ABERTOS ", CANAL RURAL 
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQSTxUd3kh6_Eoww_VmSR23jE_XzTkJCbZjQ&usqp=CAU" group-title="ABERTOS ", TV C MARA 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQSTxUd3kh6_Eoww_VmSR23jE_XzTkJCbZjQ&usqp=CAU" group-title="ABERTOS ", TV CÂMARA 
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3__E8j4jkdKtZhzwJxo0Rb-xy9n_HSnOSMQ&usqp=CAU" group-title="ABERTOS ", TV SENADO 
