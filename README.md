@@ -1,6 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", A FAZENDA 15
-http://pfsv.io/live/jacare220720/jacare220721/161381.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 1
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1173.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 2
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1174.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 3
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1175.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 4
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1176.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 5
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1177.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 6
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1178.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 7
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1179.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXB0uKA5gAXiLTz8-L8arpqxnlL1B-Epft2g&usqp=CAU" group-title="ABERTOS ", TV SERGIPE HD
 http://axr.life:80/574978/fu@sionp2@/1263271
