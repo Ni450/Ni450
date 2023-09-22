@@ -393,7 +393,7 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1125.ts
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1126.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IQ8ffmiM4JpSvbyLBL-wqut2q-CtymGsmw&usqp=CAU" group-title="RELIGIOSOS ", CANÇÃO NOVA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695109759/ei/H_4IZfiiJ5PY4QSvxInIAg/ip/45.161.165.194/id/PYQZdt9KZHM.1/source/yt_live_broadcast/requiressl/yes/tx/24554066/txs/24554063%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3Ps4qHs7tGX7RUvjuImFXnhIGZaALxpNbOBjQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgeNH-ykrUC8rjonSKz6e2IomfFcY2TlQiXrYxlWamxAgCIQDmSW3-8zokvGnY43PiNij_TAiNyo_po2ZEd3r5PTMiMg%3D%3D/file/index.m3u8
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/97.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fwwnikBPcC2Q_HjmgdeBCNnQlCFbi31OOQ&usqp=CAU" group-title="RELIGIOSOS ", PAI ETERNO
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
