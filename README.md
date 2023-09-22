@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 1
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1173.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 2
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1174.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 3
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1175.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 4
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1176.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 5
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 5
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1177.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 6
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 6
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1178.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 7
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 7
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1179.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXB0uKA5gAXiLTz8-L8arpqxnlL1B-Epft2g&usqp=CAU" group-title="ABERTOS ", TV SERGIPE HD
@@ -26,7 +26,7 @@ http://axr.life:80/574978/fu@sionp2@/1263271
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs19qc4jYJkmRTREgcgxoPb0M33X41O2E3rQ&usqp=CAU" group-title="ABERTOS ", CANAL RURAL 
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQSTxUd3kh6_Eoww_VmSR23jE_XzTkJCbZjQ&usqp=CAU" group-title="ABERTOS ", TV CÂMARA 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQSTxUd3kh6_Eoww_VmSR23jE_XzTkJCbZjQ&usqp=CAU" group-title="ABERTOS ", TV C MARA 
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3__E8j4jkdKtZhzwJxo0Rb-xy9n_HSnOSMQ&usqp=CAU" group-title="ABERTOS ", TV SENADO 
@@ -392,7 +392,7 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1125.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSJHgNXwtoRXW5ellI2twR8YtXt_1Idkv0Kw&usqp=CAU" group-title="ESPORTES PPV ", UFC PPV
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1126.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IQ8ffmiM4JpSvbyLBL-wqut2q-CtymGsmw&usqp=CAU" group-title="RELIGIOSOS ", CANÇÃO NOVA
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IQ8ffmiM4JpSvbyLBL-wqut2q-CtymGsmw&usqp=CAU" group-title="RELIGIOSOS ", CANÇÃO NOVA 
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/97.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fwwnikBPcC2Q_HjmgdeBCNnQlCFbi31OOQ&usqp=CAU" group-title="RELIGIOSOS ", PAI ETERNO
@@ -582,11 +582,11 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/433.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS48Ck57VENIUqk23NTeObc3wr1-4spW-t4HQ&usqp=CAU" group-title="NOTÍCIAS ", RECORD NEWS 
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/452.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWmTlqwofXAO5UTrYNFZjgbVIWjou1qjCgIQ&usqp=CAU" group-title="24 HORAS ", CHAPOLIN
-https://usher.ttvnw.net/api/channel/hls/faixabranca.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=2091302&play_session_id=706a5720eaccc83a1d46b983d875b761&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=0f13c35b674a4afce89420c9efa78910f1d011ac&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22blocked_user%22%3Afalse%2C%22channel%22%3A%22faixabranca%22%2C%22channel_id%22%3A197013329%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22aadfec63281d7eba%22%2C%22expires%22%3A1695073432%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22popout%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22restricted_banned_user%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22187.87.225.15%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1&cdm=wv&player_version=1.21.0
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWmTlqwofXAO5UTrYNFZjgbVIWjou1qjCgIQ&usqp=CAU" group-title="24 HORAS ", CHAVES 
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/682.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWmTlqwofXAO5UTrYNFZjgbVIWjou1qjCgIQ&usqp=CAU" group-title="24 HORAS ", CHAPOLIN 
+http://tv.logincp.top/live/jovaninovaaurora/cassarojova0875ni/144330.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWmTlqwofXAO5UTrYNFZjgbVIWjou1qjCgIQ&usqp=CAU" group-title="24 HORAS ", SOUTH PARK 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
@@ -665,5 +665,41 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWmTlqwofXAO5UTrYNFZjgbVIWjou1qjCgIQ&usqp=CAU" group-title="24 HORAS ", iCARLY
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/620ff46e0a576e0007dc2f89/3063648/playlist.m3u8?terminate=false&sid=bcbf4a65-5754-11ee-ab69-86b8301ff225&deviceDNT=0&deviceLat=-10.9823&deviceLon=-37.1033&deviceModel=web&deviceVersion=116.0.0&includeExtendedEvents=true&appName=web&deviceId=5b21bcad-00ad-4059-af01-6e32a7e1cdae&appVersion=7.7.0-18f7ab32608969ea5bcbce8d0e23b9d0e1b24717&deviceType=web&deviceMake=chromium-webview&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjA1YWZkMzExLTc4MGMtNDg5MS1hNDM0LTZhMmYzMzBlMmE5NSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiY2JmNGE2NS01NzU0LTExZWUtYWI2OS04NmI4MzAxZmYyMjUiLCJjbGllbnRJUCI6IjQ1LjIzNi42OC4xMDIiLCJjaXR5IjoiQXJhY2FqdSIsInBvc3RhbENvZGUiOiI0OTAwMCIsImNvdW50cnkiOiJCUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0xMC45ODIzLCJkZXZpY2VMb24iOi0zNy4xMDMzLCJwcmVmZXJyZWRMYW5ndWFnZSI6InB0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMTYuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9taXVtLXdlYnZpZXciLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNy43LjAtMThmN2FiMzI2MDg5NjllYTViY2JjZThkMGUyM2I5ZDBlMWIyNDcxNyIsImNsaWVudElEIjoiNWIyMWJjYWQtMDBhZC00MDU5LWFmMDEtNmUzMmE3ZTFjZGFlIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvTWFjZWlvIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJpc1N0aXRjaGVyRWtzIjp0cnVlLCJtdWx0aVBvZEFkcyI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpCUjpOV0l5TVdKallXUXRNREJoWkMwME1EVTVMV0ZtTURFdE5tVXpNbUUzWlRGalpHRmwiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjk1MjU5NTk1LCJpYXQiOjE2OTUxNzMxOTUsImp0aSI6IjdmYTU2Yzc1LWYwMzMtNDFjYi1hOTQwLTZmNGJhMDBkYzM2NCJ9.CF3XW16u65oIWGClR3Hwsr-or0258UQSvSFmNHOUS2A&CMCD=mtp%3D6400%2Cot%3Dm%2Csf%3Dh%2Csid%3D%228b580526-65d1-40be-9de0-8338575fd12d%22
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gogosmart.pro/wp-content/uploads/2022/01/18-768x768.png" group-title="ADULTOS", ADULTO 1
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/567.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gogosmart.pro/wp-content/uploads/2022/01/18-768x768.png" group-title="ADULTOS", ADULTOS 2
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/568.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gogosmart.pro/wp-content/uploads/2022/01/18-768x768.png" group-title="ADULTOS", ADULTOS 3
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/569.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gogosmart.pro/wp-content/uploads/2022/01/18-768x768.png" group-title="ADULTOS", ADULTOS 4
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/570.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gogosmart.pro/wp-content/uploads/2022/01/18-768x768.png" group-title="ADULTOS", ADULTOS 5
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/571.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gogosmart.pro/wp-content/uploads/2022/01/18-768x768.png" group-title="ADULTOS", ADULTOS 6
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/572.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gogosmart.pro/wp-content/uploads/2022/01/18-768x768.png" group-title="ADULTOS", ADULTOS 7
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/573.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gogosmart.pro/wp-content/uploads/2022/01/18-768x768.png" group-title="ADULTOS", ADULTOS 8
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/574.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gogosmart.pro/wp-content/uploads/2022/01/18-768x768.png" group-title="ADULTOS", ADULTOS 9
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/576.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gogosmart.pro/wp-content/uploads/2022/01/18-768x768.png" group-title="ADULTOS", ADULTOS 10
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/577.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gogosmart.pro/wp-content/uploads/2022/01/18-768x768.png" group-title="ADULTOS", ADULTOS 11
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/578.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://gogosmart.pro/wp-content/uploads/2022/01/18-768x768.png" group-title="ADULTOS", ADULTOS 12
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/580.ts
 
 
