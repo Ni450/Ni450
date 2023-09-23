@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 1
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1173.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 2
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1174.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 3
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1175.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 4
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1176.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 5
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 5
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1177.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 6
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 6
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1178.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", CÂMERA 7
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GqBhBSez5g198Wpr3aNanMWIGvDrpP5wZw&usqp=CAU" group-title="A FAZENDA 15", C MERA 7
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1179.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXB0uKA5gAXiLTz8-L8arpqxnlL1B-Epft2g&usqp=CAU" group-title="ABERTOS ", TV SERGIPE HD
-http://axr.life:80/574978/fu@sionp2@/1263271
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1163.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs19qc4jYJkmRTREgcgxoPb0M33X41O2E3rQ&usqp=CAU" group-title="ABERTOS ", CANAL RURAL 
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
@@ -48,7 +48,7 @@ https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/playlist.m3u8
 https://stream-04.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v-fBErLCUMnD822DVm5UdYf3oaqCrEV6PcnhUIl10IL5)/dm/3/x89qors/s/live-0.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8NQ1iwdc6VcpU73oiyMI8ZI0yY3Mva6CXRA&usqp=CAU" group-title="ABERTOS ", BAND 4K
-http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/538
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/484.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8NQ1iwdc6VcpU73oiyMI8ZI0yY3Mva6CXRA&usqp=CAU" group-title="ABERTOS ", BAND HD
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/484.ts
@@ -86,8 +86,8 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/228.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWvUBxGbOqHdTrWq_FmueBRvev3Fl2GlyVrg&usqp=CAU" group-title="FILMES E SÉRIES ", ARTE 1
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/231.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTahv9gmakQwvQ0Co9pPvY8RduF7zx8ndveyw&usqp=CAU" group-title="FILMES E SÉRIES ", AXN 4K
-http://testo.app-host11.xyz:2095/Tourobox1-tt2ouYJkdj/ktkTpUdTEy/304
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTahv9gmakQwvQ0Co9pPvY8RduF7zx8ndveyw&usqp=CAU" group-title="FILMES E SÉRIES ", AXN 
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/233.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd6oC2lpYsJujyszLf_INrvMqYvUK1DiOe-Q&usqp=CAU" group-title="FILMES E SÉRIES ", CANAL OFF
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/273.ts
@@ -96,7 +96,7 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/273.ts
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/237.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSe_wiI8_zHsTD_rH5ttSW-M4wkcHE6mvJqA&usqp=CAU" group-title="FILMES E SÉRIES ", CINEMAX
-http://pfsv.io/live/jacare220720/jacare220721/275.m3u8
+http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/240.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe4IUF8-HFQtdUsTsILowg3S-AsJW8UjLDsA&usqp=CAU" group-title="FILMES E SÉRIES ", FILM & ARTS
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/242.ts
@@ -172,9 +172,6 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/310.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK52-9uGh45YyukO1lAuHkL3z_Uj793GD3pA&usqp=CAU" group-title="FILMES E SÉRIES ", TNT HD
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/313.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpA3oFwXr3kfuwoOafGH4vQ77D6nt98nz2oA&usqp=CAU" group-title="FILMES E SÉRIES ", TNT NOVELAS
-http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/290.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjhjVXO9QVMTP3vfDwaYTdk7mu_taDGYnIw&usqp=CAU" group-title="FILMES E SÉRIES ", TNT SÉRIES
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/315.ts
@@ -295,12 +292,6 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/176.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSChMfOZzfw4Ja2YJIXmBbDNLwyfodSC2OUIw&usqp=CAU" group-title="ESPORTES PPV ", CAZÉ TV
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1149.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeXBwcDX76ILsaoFosZtFbWlSIBDPnr2l48rw3vwctiw&s" group-title="ESPORTES PPV ", CANAL GOAT 1
-http://15110166167.com:80/31297135/y942P5903T/274647
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeXBwcDX76ILsaoFosZtFbWlSIBDPnr2l48rw3vwctiw&s" group-title="ESPORTES PPV ", CANAL GOAT 2
-http://15110166167.com:80/31297135/y942P5903T/232222
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR0ijHFm5-8W3SI47vo9jiNW841e_HW246YA&usqp=CAU" group-title="ESPORTES PPV ", DAZN 1
 http://pfsv.io/live/jacare220720/jacare220721/132316.m3u8
