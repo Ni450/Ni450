@@ -452,8 +452,7 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/117.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQdIL3_KDW8iqWzybrmTWJb-t0jkgprmfm7A&usqp=CAU" group-title="INFANTIL ", 3 PALAVRINHAS 
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/670.ts 
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmoQmjC8sESlg1jnVsxbkP5GJu72L1Y3ty4A&usqp=CAU" group-title="INFANTIL ", TOOCAST 4K
-http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/367.ts
+
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmoQmjC8sESlg1jnVsxbkP5GJu72L1Y3ty4A&usqp=CAU" group-title="INFANTIL ", TOOCAST HD
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/368.ts
