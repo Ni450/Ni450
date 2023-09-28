@@ -21,7 +21,7 @@ http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1178.ts
 http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1179.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXB0uKA5gAXiLTz8-L8arpqxnlL1B-Epft2g&usqp=CAU" group-title="ABERTOS ", TV SERGIPE HD
-http://mn.appserv19.xyz:2095/live/Xplus-1-ukPjBSuwom/tCno5C6llP/1163.ts
+http://joao-1-us.mainbkonline.shop:80/ocbdb297/okpmzm96/336
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs19qc4jYJkmRTREgcgxoPb0M33X41O2E3rQ&usqp=CAU" group-title="ABERTOS ", CANAL RURAL 
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
